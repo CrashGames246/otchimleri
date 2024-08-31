@@ -1,0 +1,14 @@
+html, body{  
+height: 50%; width: 12%;
+}
+.container{
+background: linear-gradient(#9C4A1A,brown);
+background-color: #9C4A1A;
+border: 3px dashed #862400;
+position: absolute;
+width: 60%;
+height: 100%;
+margin: 18%;
+margin-top: -40px;
+
+}
